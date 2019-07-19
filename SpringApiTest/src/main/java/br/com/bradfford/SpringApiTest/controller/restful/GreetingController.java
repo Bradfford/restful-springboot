@@ -1,4 +1,4 @@
-package br.com.bradfford.SpringApiTest.controller;
+package br.com.bradfford.SpringApiTest.controller.restful;
 
 import java.util.concurrent.atomic.AtomicLong;
 
