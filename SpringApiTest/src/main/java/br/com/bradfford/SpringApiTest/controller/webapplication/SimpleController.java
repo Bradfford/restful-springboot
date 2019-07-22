@@ -16,4 +16,10 @@ public class SimpleController {
 		return "home";
 	}
 	
+	@GetMapping("/testAction")
+	public String testAction(Model model) {
+		
+		return "secondPage";
+	}
+	
 }
